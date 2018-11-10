@@ -1,0 +1,17 @@
+{
+    "name": "tugaspwa-2-kel04",
+    "version": "1.0.0",
+    "description": "Tugas PWA Jilid 1",
+    "main": "index.js",
+    "scripts": {
+        "start": "http-server -c-1 -p 8888"
+    },
+    "keywords": [
+        "pwa"
+    ],
+    "author": "Muhammad Refi",
+    "license": "UNLICENSED",
+    "devDependencies": {
+        "http-server": "^0.10.0"
+    }
+}
